@@ -1,7 +1,7 @@
 {
   "name": "jot-hog",
   "description": "Jwt authentication app",
-  "repository": "https://github.com/Driftologist/jot-hog.git"
+  "repository": "https://github.com/Driftologist/jot-hog.git",
   "dependencies": {
     "bcrypt": "^0.8.3",
     "body-parser": "^1.12.4",
